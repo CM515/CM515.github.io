@@ -141,24 +141,24 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:kalani.williams@colostate.edu" # OPTIONAL
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://github.com/kalaniwilliams" # OPTIONAL
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/kalani-williams/" # OPTIONAL
+    - label: "ResearchGate"
+      icon: "fab fa-researchgate"
+      url: "https://www.researchgate.net/profile/Kalani-Williams?ev=hdr_xprf" # OPTIONAL
+    - label: "Google Scholar"
+      icon: "fab fa-google"
+      url: "https://scholar.google.com/citations?user=4LCDPcUAAAAJ&hl=en&oi=ao" # OPTIONAL
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://kalaniwilliams.github.io/" # OPTIONAL
 
 
 # Reading Files
