@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Kalani Williams"
-  avatar           : "_pages/transparent-headshot-green.png" #"assets/images/transparent-headshot-green.png"
+  avatar           : "assets/images/transparent-headshot-green.png"
   bio              : "She/Her"
   location         : "Colorado State University"
   email            :
