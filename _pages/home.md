@@ -39,7 +39,7 @@ feature_row3:
 feature_row4:
   - image_path: assets/images/PositivesOverTime.png # no quotes this time
     alt: "ggplot Project"
-    excerpt: "An overview on my ggplot project for CM515."
+    excerpt: "An overview of my ggplot project for CM515."
     url: "/gglplot_project/" # note that these can also be full urls that take people to other sites
     btn_class: "btn--primary" # feel free to change the button style!
     btn_label: "Learn more" 
