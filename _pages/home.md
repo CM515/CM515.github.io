@@ -21,7 +21,7 @@ feature_row1:
     btn_label: "Learn more"
     
 feature_row2:
-  - image_path: assets/images/SA_ppt.png # no quotes this time
+  - image_path: assets/images/lectures.png # no quotes this time
     alt: "Lectures"
     excerpt: "Slides from CM515."
     url: "/lectures/" # note that these can also be full urls that take people to other sites
@@ -45,7 +45,8 @@ feature_row4:
     btn_label: "Learn more" 
 ---
 
-Portfolio of materials from [CSU CM515](https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main)! 
+Want to make a site like this one? Here's a [tutorial](https://temporal-windscreen-639.notion.site/Github-Portfolio-Lesson-for-CM515-1e55bd019b2f80a7855feacaa46e4632)!
+This tutorial is part of [CSU CM515](https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main).
 
 # Resources
 
