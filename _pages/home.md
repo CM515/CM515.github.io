@@ -13,36 +13,36 @@ author_profile: true
 classes: wide
    
 feature_row1:
-  - image_path: path_to_your_image.png # no quotes this time
+  - image_path: assets/images/resources.png # no quotes this time
     alt: "Resources"
-    excerpt: "Enter a relatively short description here"
+    excerpt: "Resources for computational biology."
     url: "/resources/" # note that these can also be full urls that take people to other sites
-    btn_class: "btn--inverse" # feel free to change the button style!
-    btn_label: "Whatever you want your button to say"
+    btn_class: "btn--primary" # feel free to change the button style!
+    btn_label: "Learn more"
     
 feature_row2:
-  - image_path: path_to_your_image.png # no quotes this time
+  - image_path: assets/images/SA_ppt.png # no quotes this time
     alt: "Lectures"
-    excerpt: "Enter a relatively short description here"
+    excerpt: "Slides from CM515."
     url: "/lectures/" # note that these can also be full urls that take people to other sites
-    btn_class: "btn--inverse" # feel free to change the button style!
-    btn_label: "Whatever you want your button to say"
+    btn_class: "btn--primary" # feel free to change the button style!
+    btn_label: "Learn more"
     
 feature_row3:
-  - image_path: path_to_your_image.png # no quotes this time
+  - image_path: assets/images/YYZ.gif # no quotes this time
     alt: "Image Analysis Project"
-    excerpt: "Enter a relatively short description here"
+    excerpt: "An overview of my image analysis project from CM515."
     url: "/image_analysis_project/" # note that these can also be full urls that take people to other sites
-    btn_class: "btn--inverse" # feel free to change the button style!
-    btn_label: "Whatever you want your button to say"
+    btn_class: "btn--primary" # feel free to change the button style!
+    btn_label: "Learn more"
 
 feature_row4:
-  - image_path: path_to_your_image.png # no quotes this time
+  - image_path: assets/images/PositivesOverTime.png # no quotes this time
     alt: "ggplot Project"
-    excerpt: "Enter a relatively short description here"
+    excerpt: "An overview on my ggplot project for CM515."
     url: "/gglplot_project/" # note that these can also be full urls that take people to other sites
-    btn_class: "btn--inverse" # feel free to change the button style!
-    btn_label: "Whatever you want your button to say" 
+    btn_class: "btn--primary" # feel free to change the button style!
+    btn_label: "Learn more" 
 ---
 
 Portfolio of materials from [CSU CM515](https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main)! 
