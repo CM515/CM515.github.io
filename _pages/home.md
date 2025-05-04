@@ -45,7 +45,7 @@ feature_row4:
     btn_label: "Learn more" 
 ---
 
-Want to make a site like this one? Here's a [tutorial](https://temporal-windscreen-639.notion.site/Github-Portfolio-Lesson-for-CM515-1e55bd019b2f80a7855feacaa46e4632)!
+Want to make a site like this one? Here's a [tutorial](https://temporal-windscreen-639.notion.site/Github-Portfolio-Lesson-for-CM515-1e55bd019b2f80a7855feacaa46e4632)!\
 This tutorial is part of [CSU CM515](https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main).
 
 # Resources
