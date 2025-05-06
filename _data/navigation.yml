@@ -12,14 +12,14 @@ main:
 # ggplot Project sidebar
 ggplot_project:
   - title: "Big Heading Placeholder 1"
-    url: /projects_mmp/#bhp1
+    url: /ggplot_project/#bhp1
     children:
       - title: "Medium Heading Placeholder 1"
-        url: /projects_mmp/#mhp1
+        url: /ggplot_project/#mhp1
       - title: "Medium Heading Placeholder 2"
-        url: /projects_mmp/#mhp2
+        url: /ggplot_project/#mhp2
   - title: "Big Heading Placeholder 2"
-    url: /projects_mmp/#bhp2
+    url: /ggplot_project/#bhp2
     children:
       - title: "Medium Heading Placeholder 3"
-        url: /projects_mmp/#mhp3
+        url: /ggplot_project/#mhp3
