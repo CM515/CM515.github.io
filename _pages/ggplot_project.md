@@ -12,7 +12,7 @@ read_time: true
 share: true
 classes: wide
 sidebar:
-  nav: "ggplot Project"
+  nav: "ggplot_project"
 
 ---
 
