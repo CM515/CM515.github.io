@@ -16,11 +16,11 @@ sidebar:
 
 ---
 
-# Big Heading Placeholder
+# Big Heading Placeholder 1
 
 Text place holder blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah.
 
-## Medium Heading Placeholder
+## Medium Heading Placeholder 1
 
 ### Small Heading Placeholder
 
@@ -32,7 +32,7 @@ Text place holder blah blah blah blah blah blah blah blah blah blah blah blah bl
 
 *Italic text placeholder*, blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah.
 
-## Medium Heading Placeholder
+## Medium Heading Placeholder 2
 
 ### Small Heading Placeholder
 
@@ -44,11 +44,11 @@ Text place holder blah blah blah blah blah blah blah blah blah blah blah blah bl
 
 Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah blah blah blah blah blah blah blah blah blah blah blah. Blah blah blah blah blah blah blah blah blah blah blah blah. Blah blah blah blah blah blah blah blah blah blah blah blah.
 
-#  Big Heading Placeholder *with italics*
+#  Big Heading Placeholder 2
 
-## Medium Heading Placeholder
+## Medium Heading Placeholder 3
 
-### Small Heading Placeholder
+### Small Heading Placeholder *with italics* 
 
 ![Alt text](/assets/images/image.jpeg)
 
